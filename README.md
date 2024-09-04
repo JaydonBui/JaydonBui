@@ -16,6 +16,8 @@
 
 🛠 Skills and Tools
 
-Skills: Data Visualization | Market Research | Strategic Planning | Problem Solving| Communication| Leadership| Time Management Tools: Tableau| PowerBI| Excel (PivotTable, VLOOKUP, Conditional Functions, Statistical Analysis, and Forecasting) | SQL| Python (Pandas, NumPy, Matplotlib, Seaborn) 📚 Projects View my analytics work & coding projects on GitHub Explore my data visualizations on Tableau Public
+Skills: Data Visualization | Market Research | Strategic Planning | Problem Solving| Communication| Leadership| Time Management Tools: Tableau| PowerBI| Excel (PivotTable, VLOOKUP, Conditional Functions, Statistical Analysis, and Forecasting) | SQL| Python (Pandas, NumPy, Matplotlib, Seaborn) 
 
-📫 Connect with Me
+📚 Projects View my analytics work & coding projects on GitHub Explore my data visualizations on Tableau and PowerBI
+
+📫 Connect with Me via LinkedIn (https://www.linkedin.com/in/jaydonb/)
