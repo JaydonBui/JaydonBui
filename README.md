@@ -20,4 +20,4 @@ Skills: Data Visualization | Market Research | Strategic Planning | Problem Solv
 
 📚 Projects View my analytics work & coding projects on GitHub Explore my data visualizations on Tableau and PowerBI
 
-📫 Connect with Me via LinkedIn (https://www.linkedin.com/in/jaydonb/)
+📫 [Connect with Me via LinkedIn](https://www.linkedin.com/in/jaydonb/)
