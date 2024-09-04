@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**JaydonBui/JaydonBui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Jaydon! A Business Analytics graduate with a passion for data-driven decision-making and strategic planning at Financial and Fintech industry
 
-Here are some ideas to get you started:
+🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Master of Science in Business Analytics
+
+📊 Experienced in dashboard building using PowerBI and Tableau
+
+📈 Skilled in data analytics using Excel, Python, and SQL
+
+📝 Proficient in market research and strategic planning
+
+⚡ Fun fact: I enjoy exploring new technologies and techniques to enhance business outcomes.
+
+🛠 Skills and Tools
+
+Skills: Data Visualization | Market Research | Strategic Planning | Problem Solving| Communication| Leadership| Time Management Tools: Tableau| PowerBI| Excel (PivotTable, VLOOKUP, Conditional Functions, Statistical Analysis, and Forecasting) | SQL| Python (Pandas, NumPy, Matplotlib, Seaborn) 📚 Projects View my analytics work & coding projects on GitHub Explore my data visualizations on Tableau Public
+
+📫 Connect with Me
