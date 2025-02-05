@@ -6,7 +6,7 @@ I'm Jaydon! I’ve got a Master’s in Business Analytics and 4+ years of experi
 
 🎓 Master of Science in Business Analytics at Golden Gate University, San Francisco, CA
 
-📝 4 YOE in product & digital marketing with GTM strategies, Product positioning and growth initiatives.
+📝 4+ yrs exp in product & digital marketing with GTM strategies, Product positioning and growth initiatives.
 
 📊 Experienced in dashboard building & storytelling using PowerBI and Tableau, for me data is not just numbers.
 
