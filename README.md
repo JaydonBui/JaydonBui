@@ -1,18 +1,18 @@
 ## Hi there 👋
 
- I'm Jaydon! A Business Analytics graduate with a passion for data-driven decision-making and strategic planning at Financial and Fintech industry
+I'm Jaydon! I’ve got a Master’s in Business Analytics and 4+ years of experience in product and digital marketing in the Financial and Fintech industries. I’m all about using data and storytelling to drive marketing & business decisions. I’ve seen first-hand how crucial this combo is in today’s fast-paced world, and I’m eager to keep learning and sharing my story in this Github page, please feel free to share your insights!
 
 🙋‍♂️ About Me
 
 🎓 Master of Science in Business Analytics at Golden Gate University, San Francisco, CA
 
-📊 Experienced in dashboard building using PowerBI and Tableau
+📝 4 YOE in product & digital marketing with GTM strategies, Product positioning and growth initiatives.
+
+📊 Experienced in dashboard building & storytelling using PowerBI and Tableau, for me data is not just numbers.
 
 📈 Skilled in data analytics using Excel, Python, and SQL
 
-📝 Proficient in market research and strategic planning, Financial & Fintech sector
-
-⚡ Fun fact: I enjoy exploring new technologies and techniques to enhance business outcomes.
+⚡ Fun fact: I enjoy exploring new technologies and techniques to solve problems that come to my way.
 
 🛠 Skills and Tools:
 
