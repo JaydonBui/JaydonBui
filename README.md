@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jaydon! I’ve got a Master’s in Business Analytics and 4+ years of experience in product and digital marketing in the Financial and Fintech industries. I’m all about using data and storytelling to drive marketing & business decisions. I’ve seen first-hand how crucial this combo is in today’s fast-paced world, and I’m eager to keep learning and sharing my story in this Github page, please feel free to share your insights!
+I'm Jaydon! I’ve got a Master’s in Business Analytics and 5+ years of experience in product and digital marketing in the Financial and Fintech industries. I’m all about using data and storytelling to drive marketing & business decisions. I’ve seen first-hand how crucial this combo is in today’s fast-paced world, and I’m eager to keep learning and sharing my story in this Github page, please feel free to share your insights!
 
 🙋‍♂️ About Me
 
