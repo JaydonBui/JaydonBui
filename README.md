@@ -14,9 +14,9 @@ I'm Jaydon! I’ve got a Master’s in Business Analytics and 5+ years of experi
 - Always looking for ways to turn insights into action
 
 ### 📚 Projects & Highlights
+- 🛒 **Weee! Growth & Analytics** – Referral funnels, community growth, dashboards, and campaign optimization  
 - 🌍 **Teladoc – Strategic Global Expansion** – Market analysis, opportunity sizing, and expansion strategy  
 - 🏦 **Home Credit – GTM Strategy** – Customer segmentation, channel optimization, growth initiatives  
-- 🛒 **Weee! Growth & Analytics** – Referral funnels, community growth, dashboards, and campaign optimization  
 - 📊 **Dashboards & Data Storytelling** – Tableau & Power BI dashboards to track and communicate key metrics  
 
 Tools: Tableau| PowerBI| Excel (PivotTable, VLOOKUP, Conditional Functions, Statistical Analysis, and Forecasting) | SQL| Python (Pandas, NumPy, Matplotlib, Seaborn) 
